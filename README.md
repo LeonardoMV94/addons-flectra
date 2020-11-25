@@ -1,1 +1,1 @@
-# addon creado por KONOS
+# addons creado por KONOS para FLECTRA ERP
